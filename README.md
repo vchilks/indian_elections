@@ -1,7 +1,8 @@
-# indian_elections
+# 2019 Loksabha Elections of India
 Archiving Indian Election Data
 
-This is a compilation of 2019 Lok Sabha results. All the constituencies are combined into one file (with CSV format)
+This is a compilation of 2019 Lok Sabha results. All the constituencies are combined into one file (with CSV format).
+
 The data was downloaded and cleaned  from http://results.eci.gov.in/pc/en/constituencywise/ConstituencywiseU011.htm?ac=1
 using R-ecosystem's tidyverse (rvest, tidyr, dplyr, readr, purrr, stringr) 
 
